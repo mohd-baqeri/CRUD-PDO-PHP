@@ -8,7 +8,7 @@ CRUD:
 - D: Delete
 
 Fetching Options:
-  PDO::FETCH_ASSOC
-  PDO::FETCH_OBJ
+  * PDO::FETCH_ASSOC
+  * PDO::FETCH_OBJ
 
 Doing query in safe and unsafe ways...
